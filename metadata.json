@@ -1,0 +1,8 @@
+{
+  "name": "Smart Tic-Tac-Toe AI",
+  "description": "A polished Tic-Tac-Toe game with a smart AI opponent, winning line animations, and a modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
